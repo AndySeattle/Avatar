@@ -76,7 +76,6 @@ jointIndex = LeftHand = 19
 jointIndex = LeftHandRing1 = 26
 jointIndex = RightHandIndex3 = 64
 jointIndex = h_TeethDown = 83
-jointIndex = Spine1 = 14
 jointIndex = spotLight4 = 85
 jointIndex = LeftHandRing2 = 27
 jointIndex = LeftShoulder = 16
@@ -84,7 +83,6 @@ jointIndex = LeftHandPinky2 = 23
 jointIndex = h_L_trans = 79
 jointIndex = LeftHandPinky0 = 21
 jointIndex = spotLight2 = 87
-jointIndex = Spine2 = 15
 jointIndex = LeftFoot = 5
 jointIndex = RightHandThumb1 = 66
 jointIndex = LeftHandPinky4 = 25
