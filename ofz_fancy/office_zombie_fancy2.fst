@@ -66,7 +66,6 @@ bs = BrowsU_R = BrowsUp_Right = 1
 bs = MouthSmile_L = Smile_Left = 1
 bs = MouthRight = Midmouth_Right = 1
 jointIndex = LeftLeg = 2
-jointIndex = LeftHandMiddle2 = 59
 jointIndex = RightHandThumb4 = 33
 jointIndex = LeftHand = 41
 jointIndex = LeftHandRing1 = 46
@@ -128,7 +127,6 @@ jointIndex = Hair = 67
 jointIndex = Body = 74
 jointIndex = RightArm = 15
 jointIndex = Beards = 69
-jointIndex = RightHandMiddle2 = 35
 jointIndex = RightHandThumb2 = 31
 jointIndex = LeftHandIndex1 = 50
 jointIndex = LeftHandMiddle4 = 61
