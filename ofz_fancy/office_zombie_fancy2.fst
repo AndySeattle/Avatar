@@ -72,7 +72,6 @@ jointIndex = LeftHandRing1 = 46
 jointIndex = Hips = 0
 jointIndex = LeftHandRing3 = 48
 jointIndex = RightFoot = 8
-jointIndex = LeftArm = 39
 jointIndex = LeftHandPinky3 = 44
 jointIndex = RightToe_End = 10
 jointIndex = Moustaches = 71
@@ -125,7 +124,6 @@ jointIndex = LeftUpLeg = 1
 jointIndex = RightHandIndex1 = 26
 jointIndex = Hair = 67
 jointIndex = Body = 74
-jointIndex = RightArm = 15
 jointIndex = Beards = 69
 jointIndex = RightHandThumb2 = 31
 jointIndex = LeftHandIndex1 = 50
